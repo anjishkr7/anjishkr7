@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;AI+%2F+ML+Enthusiast;Building+Scalable+%26+Modern+Web+Apps;Always+Learning+Something+New+%F0%9F%9A%80" />
 </p>
+
 ---
 
 # 💫 About Me
