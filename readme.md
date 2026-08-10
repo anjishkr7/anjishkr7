@@ -6,83 +6,51 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;AI+%2F+ML+Enthusiast;Building+Scalable+%26+Modern+Web+Apps;Always+Learning+Something+New+%F0%9F%9A%80" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/anjishkr7">
-    <img src="https://komarev.com/ghpvc/?username=anjishkr7&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/anjishkr7?tab=followers">
-    <img src="https://img.shields.io/github/followers/anjishkr7?label=Followers&style=for-the-badge&color=blue" />
-  </a>
-</p>
-
 ---
 
 # ⚡ Tech Stack
 
 ### 💻 Languages
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js" />
 </p>
 
 ### 🎨 Frontend
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
 
 ### ⚙️ Backend
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring" />
 </p>
 
 ### 🗄️ Databases & ORM
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 ### 📊 Data Science
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 </p>
 
 ### ☁️ DevOps & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel" />
 </p>
-
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://YOUR-PROJECT-1.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjishkr7&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://YOUR-PROJECT-2.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjishkr7&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-### 🌐 Live Projects
-
-| Project        | Live Demo                                       | Source                                                  |
-| -------------- | ----------------------------------------------- | ------------------------------------------------------- |
-| 🚀 Project One | [Live Demo](https://YOUR-PROJECT-1.vercel.app)  | [GitHub](https://github.com/anjishkr7/YOUR_REPO_1)  |
-| ⚡ Project Two  | [Live Demo](https://YOUR-PROJECT-2.vercel.app)  | [GitHub](https://github.com/anjishkr7/YOUR_REPO_2)  |
-| 🤖 AI Project  | [Live Demo](https://YOUR-AI-PROJECT.vercel.app) | [GitHub](https://github.com/anjishkr7/YOUR_AI_REPO) |
-
----
 
 # 📊 GitHub Analytics
 
@@ -101,54 +69,11 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjishkr7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" />
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjishkr7&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-# 🧠 What I Like Building
-
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║   🌐 Full-Stack Web Applications             ║
-║   ⚡ High Performance Frontend               ║
-║   🧩 Scalable Backend Systems                ║
-║   🤖 AI / ML Applications                    ║
-║   🔐 Secure APIs & Authentication             ║
-║   ☁️ Cloud & DevOps Solutions                ║
-║   📊 Data Driven Applications                ║
-║   🚀 Developer Tools & SaaS                  ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-# 🛠️ My Development Workflow
-
-```mermaid
-graph LR
-    A[💡 Idea] --> B[🎨 Design]
-    B --> C[⚛️ Frontend]
-    C --> D[⚙️ Backend]
-    D --> E[🗄️ Database]
-    E --> F[🧪 Testing]
-    F --> G[🐳 Docker]
-    G --> H[☁️ Deploy]
-    H --> I[🚀 Production]
-```
 
 ---
 
