@@ -1,4 +1,4 @@
-# 👋 Hey, I'm YOUR_USERNAME
+# 👋 Hey, I'm anjishkr7
 
 ### 🚀 Full-Stack Developer • Software Engineer • AI/ML Enthusiast
 
@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <a href="https://github.com/anjishkr7">
+    <img src="https://komarev.com/ghpvc/?username=anjishkr7&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=blue" />
+  <a href="https://github.com/anjishkr7?tab=followers">
+    <img src="https://img.shields.io/github/followers/anjishkr7?label=Followers&style=for-the-badge&color=blue" />
   </a>
 </p>
 
@@ -67,10 +67,10 @@
 
 <p align="center">
   <a href="https://YOUR-PROJECT-1.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjishkr7&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://YOUR-PROJECT-2.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjishkr7&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -78,17 +78,17 @@
 
 | Project        | Live Demo                                       | Source                                                  |
 | -------------- | ----------------------------------------------- | ------------------------------------------------------- |
-| 🚀 Project One | [Live Demo](https://YOUR-PROJECT-1.vercel.app)  | [GitHub](https://github.com/YOUR_USERNAME/YOUR_REPO_1)  |
-| ⚡ Project Two  | [Live Demo](https://YOUR-PROJECT-2.vercel.app)  | [GitHub](https://github.com/YOUR_USERNAME/YOUR_REPO_2)  |
-| 🤖 AI Project  | [Live Demo](https://YOUR-AI-PROJECT.vercel.app) | [GitHub](https://github.com/YOUR_USERNAME/YOUR_AI_REPO) |
+| 🚀 Project One | [Live Demo](https://YOUR-PROJECT-1.vercel.app)  | [GitHub](https://github.com/anjishkr7/YOUR_REPO_1)  |
+| ⚡ Project Two  | [Live Demo](https://YOUR-PROJECT-2.vercel.app)  | [GitHub](https://github.com/anjishkr7/YOUR_REPO_2)  |
+| 🤖 AI Project  | [Live Demo](https://YOUR-AI-PROJECT.vercel.app) | [GitHub](https://github.com/anjishkr7/YOUR_AI_REPO) |
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjishkr7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjishkr7&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 ---
@@ -96,7 +96,7 @@
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=anjishkr7&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -104,7 +104,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anjishkr7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" />
 </p>
 
 ---
@@ -112,7 +112,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjishkr7&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -168,7 +168,7 @@ graph LR
 # 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/anjishkr7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
@@ -187,7 +187,7 @@ graph LR
 # ☕ Support My Work
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/">
     <img src="https://img.shields.io/badge/⭐_Star_My_Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
