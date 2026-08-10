@@ -40,23 +40,10 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-### 📊 Data Science
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
-</p>
-
 ### ☁️ DevOps & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel" />
-</p>
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjishkr7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjishkr7&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 ---
